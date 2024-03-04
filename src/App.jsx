@@ -1,6 +1,6 @@
 import './App.css'
-import Header from './assets/components/Header'
-import BmiForm from './assets/components/BmiForm'
+import Header from './components/Header'
+import BmiForm from './components/BmiForm'
 
 function App() {
   
